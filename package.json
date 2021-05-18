@@ -1,6 +1,6 @@
 {
   "name": "@ticketing-romanstrazanec/common",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Ticketing common module",
   "repository": {
     "url": "https://github.com/romanstrazanec/microservices-ticketing-common"
