@@ -1,7 +1,10 @@
 {
   "name": "@ticketing-romanstrazanec/common",
   "version": "1.0.2",
-  "description": "",
+  "description": "Ticketing common module",
+  "repository": {
+    "url": "https://github.com/romanstrazanec/microservices-ticketing-common"
+  },
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "files": [
@@ -13,7 +16,7 @@
     "pub": "git add . && git commit -m \"Updates\" && npm version patch && npm run build && npm publish"
   },
   "keywords": [],
-  "author": "",
+  "author": "romanstrazanec",
   "license": "ISC",
   "devDependencies": {
     "del-cli": "^3.0.1",
