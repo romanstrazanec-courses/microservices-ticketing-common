@@ -3,12 +3,13 @@
   "version": "1.0.3",
   "description": "Ticketing common module",
   "repository": {
+    "type": "git",
     "url": "https://github.com/romanstrazanec/microservices-ticketing-common"
   },
-  "main": "./build/index.js",
-  "types": "./build/index.d.ts",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
   "files": [
-    "./build/**/*"
+    "build/"
   ],
   "scripts": {
     "clean": "del ./build/*",
